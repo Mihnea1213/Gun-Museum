@@ -1,0 +1,277 @@
+body {
+	background: url(Poze/assault-rifle-machine-guns-weapon.jpg);
+	font-family: Calibri;
+	margin: 0px;
+	padding: 0px;
+}
+#main {
+	margin: auto;
+	width: 80%;
+}
+#navbar {
+	width: 100%;
+	height: 40px;
+	background-color: #4d2600;
+}
+#navbar ol {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+#navbar li {
+	display: inline;
+	float: left;
+}
+#navbar a {
+	display: block;
+	padding: 11px 24.72px;
+	background-color: #4d2600;
+	color: Black;
+	text-decoration: none;
+}
+	#navbar a:hover {
+	background-color: #ffffff;
+	font-weight: bold;
+}
+.Home {
+	font-weight: bolder;
+}
+.Basics {
+	font-weight: bold;
+}
+.Gloante {
+	font-weight: bold;
+}
+#jumbotron {
+	height: 400px;
+	background-color: #4d2600;
+}
+#jumbotron img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+}
+#jumbotron h1 {
+	font-size: 13px;
+	font-family: 'New Tegomin', cursive;
+	text-align: center;
+}
+#jumbotron h2 {
+	font-size: 17px;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+}
+#ribbon {
+	background: url('Poze/camo.jfif');
+	height: 75px;
+	background-position: 20% 20%;
+}
+#content1 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#left1 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#left1 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+}
+#right1 {
+	flex: 1;
+}
+#right1 h2 {
+	font-size: 31px;
+}
+#right1 p {
+	text-align: center;
+	font-size: 31px;
+}
+#content2 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#right2 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#right2 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+}
+#left2 {
+	flex: 1;
+}
+#left2 h2 {
+	font-size: 29px;
+}
+#left2 p {
+	text-align: center;
+	font-size: 28px;
+}
+#content3 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#left3 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#left3 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 350px;
+}
+#right3 {
+	flex: 1;
+}
+#right3 h2 {
+	font-size: 23px;
+}
+#right3 p {
+	text-align: center;
+	font-size: 21px;
+}
+#content4 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#right4 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#right4 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+}
+#left4 {
+	flex: 1;
+}
+#left4 h2 {
+	font-size: 26px;
+}
+#left4 p {
+	text-align: center;
+	font-size: 26px;
+}
+#content5 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#left5 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#left5 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+}
+#right5 {
+	flex: 1;
+}
+#right5 h2 {
+	font-size: 27px;
+}
+#right5 p {
+	text-align: center;
+	font-size: 26px;
+}
+#contental {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+}
+#contental img{
+	display: inline-block;
+	margin-left: 14px;
+	margin-right: 14px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 350px;
+	height: 350px;
+}
+#contental video {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	height: 300px;
+}
+#contental h1 {
+	font-size: 30px;
+	text-align: center;
+}
+#contental p {
+	text-align: center;
+	font-size: 25px;
+}
+#content6 {
+	width: 100%;
+	padding: 10px ;
+	background-color: #4d2600;
+	box-sizing: border-box;
+	display: flex;
+}
+#right6 {
+	margin-right: 20px;
+	margin-left: 15px;
+	overflow: hidden;
+}
+#right6 img {
+	display: block;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+}
+#left6 {
+	flex: 1;
+}
+#left6 h2 {
+	font-size: 26px;
+}
+#left6 p {
+	text-align: center;
+	font-size: 28px;
+}
+#footer2 {
+	height: 40px;
+	font-size: 15px;
+	background-color: #ffffff;
+	text-align: center;
+	line-height: 40px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}

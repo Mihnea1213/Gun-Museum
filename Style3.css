@@ -1,0 +1,165 @@
+body {
+	background: url(Poze/sala.jpg);
+	font-family: Calibri;
+	margin: 0px;
+	padding: 0px;
+}
+#main {
+	margin: auto;
+	width: 80%;
+}
+#navbar {
+	width: 100%;
+	height: 40px;
+	background-color: Black ;
+}
+#navbar ol {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+#navbar li {
+	display: inline;
+	float: left;
+}
+#navbar a {
+	display: block;
+	padding: 11px 24.72px;
+	background-color: Black;
+	color: #0000ff;
+	text-decoration: none;
+}
+	#navbar a:hover {
+	background-color: #ff0000;
+	font-weight: bold;
+}
+.Home {
+	font-weight: bolder;
+}
+.Basics {
+	font-weight: bold;
+}
+.Gloante {
+	font-weight: bold;
+}
+#content {
+	width: 100%;
+	padding: 10px;
+	background-color: #000000;
+	box-sizing: border-box;
+}
+#content h1 {
+	text-align: center;
+	color: White ;
+}
+#content p {
+	font-family: 'New Tegomin', serif;
+	font-weight: bold;
+	color: White ;
+}
+#content ul {
+	font-family: 'New Tegomin', serif;
+	font-weight: bold;
+}
+#content li {
+	color: White ;
+}
+#content h2 {
+	color: White ;
+	text-align: center;
+}
+#content br {
+	color: White ;
+}
+#cal video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#capra img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+	width: 300px;
+}
+#leu img{
+	display: inline-block;
+	margin-left: 55px;
+	margin-right: 55px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 300px;
+	height: 300px;
+}
+#leu video {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	height: 300px;
+}
+#maimuta img{
+	display: inline-block;
+	margin-left: 55px;
+	margin-right: 55px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 300px;
+	height: 300px;
+}
+#maimuta video {
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 300px;
+	height: 300px;
+}
+#elefant img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+	width: 300px;
+}
+#croco img {
+	display: inline-block;
+	margin-left: 125px;
+	margin-right: 125px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 300px;
+	height: 300px;
+}
+#pisi img {
+	display: inline-block;
+	margin-left: 125px;
+	margin-right: 125px;
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 300px;
+	height: 300px;
+}
+#caine img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+	width: 300px;
+}
+#vrabie img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 750px;
+	width: 900px;
+}
+#footer2 {
+	height: 40px;
+	font-size: 15px;
+	background-color: #ff0000;
+	text-align: center;
+	line-height: 40px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
